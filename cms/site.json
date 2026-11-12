@@ -3,6 +3,10 @@
   "name": "Anubhav",
   "version": 1,
   "admin": "admin.html",
-  "exportedAt": "2026-11-12T17:05:28.192Z",
-  "generator": "Site Studio"
+  "exportedAt": "2026-11-12T18:05:43.332Z",
+  "generator": "Site Studio",
+  "studioBuild": {
+    "id": "e9bd909",
+    "at": "2026-11-12T18:00:27.530Z"
+  }
 }
